@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=96harsh52&label=Profile%20views&color=0e75b6&style=flat" alt="96harsh52" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
-- 🔭 I’m currently working on **LLM's Models and some Generative AI Projects**
+- 🔭 I’m currently working on **Rakuten India Generative AI Projects**
 
 - 🌱 I’m currently learning **Generative AI, Wisper, LLM Models.**
 
