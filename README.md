@@ -1,5 +1,3 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hi 👋, I'm Harshvardhan Sahu</h1>
 <p align="center">Experienced Machine Learning Engineer with over 2+ years of expertise in data analysis, advanced NLP techniques, and utilizing Python, SQL, and computer vision tools. Skilled in leading and managing teams. Proficient in integrating cutting-edge LLM models such as ChatGpt, Google PaLM, and Langchain to optimize chatbot functionality. Passionate about data visualization through Tableau, Excel, and Power Query to reveal valuable insights. Committed to pursuing collaborative opportunities in Machine Learning and data analytics to unlock the true potential of data sustainably.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=96harsh52&label=Profile%20views&color=0e75b6&style=flat" alt="96harsh52" /> </p>
@@ -32,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=96harsh52&show_icons=true&locale=en" alt="96harsh52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=96harsh52&" alt="96harsh52" /></p>
+
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
