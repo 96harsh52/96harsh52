@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **96harsh52@gmail.com**
 
+- 👨‍💻 All of my projects are available at  **https://96harsh52.github.io/**
+
+- 📄 Know about my experiences **https://drive.google.com/file/d/1tQh9wwUh1fHv4PmWKgD3x1LeN6V7q7fb/view?usp=sharing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/96harsh52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="96harsh52" height="30" width="40" /></a>
